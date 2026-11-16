@@ -1,0 +1,8 @@
+{
+  "name": "Harmolaser Maceió",
+  "description": "Depilação a laser e estética avançada na Cidade Universitária, Maceió. Atendimento acolhedor e tecnologia de precisão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
